@@ -5,7 +5,7 @@ from django.conf.urls.i18n import i18n_patterns
 from django.contrib import admin
 from django.views.i18n import set_language
 
-from django.views.generic import TemplateView
+from django.views.generic.base import TemplateView
 
 from mezzanine.core.views import direct_to_template
 from mezzanine.conf import settings

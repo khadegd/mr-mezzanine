@@ -10,6 +10,11 @@ django = "*"
 mezzanine = {editable = true,path = "./mezzanine"}
 filebrowser-safe = {editable = true,path = "./filebrowser-safe"}
 grappelli-safe = {editable = true,path = "./grappelli-safe"}
+django-debug-toolbar = "*"
+django-extensions = "*"
+ipdb = "*"
+ipython = {extras = ["notebook"],version = "*"}
+werkzeug = "*"
 
 [requires]
 python_version = "3.7"
