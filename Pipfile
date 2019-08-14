@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 django = "*"
-856653d = {editable = true,path = "./mezzanine"}
+mezzanine = {editable = true,path = "./mezzanine"}
 filebrowser-safe = {editable = true,path = "./filebrowser-safe"}
 grappelli-safe = {editable = true,path = "./grappelli-safe"}
 
