@@ -42,7 +42,7 @@ urlpatterns += [
     # one out.
 
     path("", TemplateView.as_view(template_name="index.html"), name="home"),
-    # url(r"^$", direct_to_template, {"template": "index.html"}, name="home"),
+    # re_path(r"^$", direct_to_template, {"template": "index.html"}, name="home"),
 
     # HOMEPAGE AS AN EDITABLE PAGE IN THE PAGE TREE
     # ---------------------------------------------
