@@ -1,0 +1,11 @@
+[submodule "mezzanine"]
+	path = mezzanine
+	url = git@github.com:khadegd/mezzanine.git
+
+[submodule "filebrowser-safe"]
+	path = filebrowser-safe
+	url = git@github.com:khadegd/filebrowser-safe.git
+
+[submodule "grappelli-safe"]
+	path = grappelli-safe
+	url = git@github.com:khadegd/grappelli-safe.git
