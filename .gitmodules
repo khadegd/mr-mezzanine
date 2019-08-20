@@ -1,6 +1,6 @@
 [submodule "mezzanine"]
 	path = mezzanine
-	url = git@github.com:khadegd/mezzanine.git
+	url = git@github.com:khadegd/august.git
 
 [submodule "filebrowser-safe"]
 	path = filebrowser-safe
